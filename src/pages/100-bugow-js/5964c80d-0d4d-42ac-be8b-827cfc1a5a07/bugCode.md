@@ -1,0 +1,38 @@
+```js showLineNumbers
+console.log(Number(undefined))
+console.log(Number(null))
+console.log(Number(false))
+console.log(Number(true))
+console.log(Number({}))
+console.log(Number([]))
+
+console.log(Number("a"))
+console.log(Number("\f"))
+console.log(Number("\n"))
+console.log(Number("\r"))
+console.log(Number("\t"))
+console.log(Number("\v"))
+console.log(Number("\b"))
+
+console.log(Number(["a"]))
+console.log(Number([0]))
+console.log(Number(["0"]))
+console.log(Number([0, 0]))
+console.log(Number([1]))
+console.log(Number(["1"]))
+console.log(Number([0, 1]))
+
+console.log(Number(""))
+console.log(Number("  "))
+console.log(Number("  \n  \t  \f  \v  "))
+console.log(Number("  \n  \t  \f  \v  1  "))
+
+console.log(Number("1e2"))
+console.log(Number(1e2))
+console.log(Number("0x64"))
+console.log(Number(0x64))
+console.log(Number("0b01100100"))
+console.log(Number(0b01100100))
+console.log(Number("\u0031\u0030\u0030"))
+console.log(Number("\x31\x30\x30"))
+```

@@ -1,0 +1,35 @@
+import CodeBlock from "@theme/CodeBlock"
+import BugCode from "./bugCode.md"
+import BugDescription from "./bugDescription.md"
+import SolutionCode from "./solutionCode.md"
+import SolutionDescription from "./solutionDescription.md"
+import Links from "./links.md"
+import StackBlitz from "./../_stackblitz.mdx"
+import Footer from "./../_footer.md"
+const bugId = new URL(import.meta.url).pathname
+  .split("100-bugow-js/")[1]
+  .replace("/index.mdx", "")
+const infoFilePath = require.context("./", false, /\.json$/).keys()[0]
+const infoFile = require("" + infoFilePath)
+const bugNumber = infoFilePath.replace("./info-", "").replace(".json", "")
+
+<h1>Bug #{bugNumber}</h1>
+
+## 🪲 Znajdź buga
+
+<BugCode />
+<BugDescription />
+
+## 🧪 Rozwiązanie
+
+<SolutionCode />
+<SolutionDescription />
+
+## 🎢 Plac zabaw
+
+<StackBlitz bugId={bugId} />
+
+## 📑 Linki
+
+<Links />
+<Footer />

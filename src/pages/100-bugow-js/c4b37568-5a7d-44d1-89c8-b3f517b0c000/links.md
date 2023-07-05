@@ -1,0 +1,4 @@
+- [SyntaxError: unterminated string literal - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Unterminated_string_literal)
+- [Grammar and types - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#string_literals)
+- [Template literals (Template strings) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- [Grawis – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Grawis)

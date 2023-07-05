@@ -1,0 +1,15 @@
+---
+description: ""
+# tags:
+---
+
+# Języki programowania
+
+- [Język programowania – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/J%C4%99zyk_programowania)
+- [Kategoria:Języki programowania – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:J%C4%99zyki_programowania)
+- [Kategoria:Klasyfikacja języków programowania – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:Klasyfikacja_j%C4%99zyk%C3%B3w_programowania)
+- [Kategoria:Paradygmaty programowania – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:Paradygmaty_programowania)
+- [Standardy kodowania – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Standardy_kodowania)
+- [Zapachy kodu – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Zapachy_kodu)
+- [Kategoria:Kod źródłowy – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:Kod_%C5%BAr%C3%B3d%C5%82owy)
+- [Kategoria:Praktyki programistyczne – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:Praktyki_programistyczne)

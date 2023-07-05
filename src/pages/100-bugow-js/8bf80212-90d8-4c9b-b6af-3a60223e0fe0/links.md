@@ -1,0 +1,2 @@
+- [Left shift (<<) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Left_shift)
+- [Podstawy systemu binarnego - YouTube](https://www.youtube.com/watch?v=WBCMcpSaBo0)

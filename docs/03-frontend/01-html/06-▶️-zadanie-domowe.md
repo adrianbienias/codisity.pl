@@ -1,0 +1,13 @@
+---
+description: ""
+tags:
+  - HTML
+---
+
+import VimeoPlayer from "@site/src/components/VimeoPlayer"
+
+# ▶️ Zadanie domowe
+
+<VimeoPlayer videoId="750003431" />
+
+- [💾 Repozytorium plików z kursu](https://github.com/codisity/kurs-html)

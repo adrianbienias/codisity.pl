@@ -1,0 +1,4 @@
+- [var](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+- [let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+- [setTimeout()](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
+- [The event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)

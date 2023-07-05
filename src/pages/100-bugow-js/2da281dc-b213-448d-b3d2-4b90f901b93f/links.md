@@ -1,0 +1,4 @@
+- [Document.querySelectorAll() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+- [NodeList - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
+- [NodeList.prototype.forEach() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach)
+- [Array.prototype.map() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)

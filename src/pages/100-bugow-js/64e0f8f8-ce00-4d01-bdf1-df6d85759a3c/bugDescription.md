@@ -1,0 +1,1 @@
+Zakładając, że wewnątrz funkcji wywołujemy kod, który może wyrzucić nam wyjątek, umieszczamy go w wyrażeniu `try...catch`. Jaka wartość zostanie zwrócona po wywołaniu funkcji? Czy gdyby wyrzucony został wyjątek w bloku `try { ... }` kod zachowałby się inaczej?

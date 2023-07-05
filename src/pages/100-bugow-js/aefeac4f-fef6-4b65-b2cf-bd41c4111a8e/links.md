@@ -1,0 +1,6 @@
+- [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [Object.assign()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+- [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- [Deep copy](https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy)
+- [structuredClone()](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
+- [\_.cloneDeep()](https://lodash.com/docs/4.17.15#cloneDeep)

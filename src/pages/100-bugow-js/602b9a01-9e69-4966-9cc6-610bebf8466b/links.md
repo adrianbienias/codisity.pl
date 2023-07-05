@@ -1,0 +1,6 @@
+- [fetch() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/fetch)
+- [Response.ok - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Response/ok)
+- [HTTP response status codes - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [Error - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error#instance_properties)
+- [Error.prototype.cause - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/cause)
+- [r-spacex/SpaceX-API: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.](https://github.com/r-spacex/SpaceX-API)

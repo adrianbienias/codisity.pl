@@ -1,0 +1,3 @@
+- [Strict mode - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+- [SyntaxError: "0"-prefixed octal literals and octal escape seq. are deprecated - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_octal)
+- [Octal - Wikipedia](https://en.wikipedia.org/wiki/Octal)

@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+  /* You can override the default Infima variables here. */
+  :root {
+    --ifm-color-primary: #533fee;
+    --ifm-color-primary-dark: #3a23ec;
+    --ifm-color-primary-darker: #2e16ea;
+    --ifm-color-primary-darkest: #2511c2;
+    --ifm-color-primary-light: #6c5bf0;
+    --ifm-color-primary-lighter: #7868f2;
+    --ifm-color-primary-lightest: #9d92f5;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --navbar-bg-color: hsla(0, 0%, 100%, 75%);
+  }
+
+  /* For readability concerns, you should choose a lighter palette in dark mode. */
+  [data-theme="dark"] {
+    --ifm-color-primary: #9d92f5;
+    --ifm-color-primary-dark: #7d6ef2;
+    --ifm-color-primary-darker: #6d5cf0;
+    --ifm-color-primary-darkest: #3c27eb;
+    --ifm-color-primary-light: #bdb6f8;
+    --ifm-color-primary-lighter: #cdc8fa;
+    --ifm-color-primary-lightest: #fefdff;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+    --navbar-bg-color: hsla(0, 0%, 20%, 75%);
+  }
+
+  @media (min-width: 997px) {
+    .navbar {
+      backdrop-filter: blur(10px);
+      background-color: var(--navbar-bg-color);
+    }
+  }
+
+  h1:not(:first-child) {
+    @apply mt-16;
+  }
+  h1 {
+    @apply mb-8;
+  }
+
+  h2:not(:first-child) {
+    @apply mt-12;
+  }
+  h2 {
+    @apply mb-6;
+  }
+
+  h3:not(:first-child) {
+    @apply mt-8;
+  }
+  h3 {
+    @apply mb-4;
+  }
+
+  body {
+    @apply text-lg font-sans;
+  }
+
+  input,
+  textarea,
+  button,
+  fieldset {
+    @apply text-base font-sans border-none;
+  }
+
+  article p {
+    @apply max-w-prose;
+  }
+}
+
+.navbar-logo {
+  @apply w-28 ml-2;
+}
+
+.video iframe {
+  @apply aspect-video w-full;
+}

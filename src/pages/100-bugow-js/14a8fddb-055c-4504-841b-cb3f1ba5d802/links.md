@@ -1,0 +1,4 @@
+- [Przeciążanie funkcji – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Przeci%C4%85%C5%BCanie_funkcji)
+- [Nadpisywanie metod – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Nadpisywanie_metod)
+- [NaN - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+- [TypeScript: Documentation - More on Functions](https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads)

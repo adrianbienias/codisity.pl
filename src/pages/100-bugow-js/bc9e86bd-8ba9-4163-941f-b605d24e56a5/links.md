@@ -1,0 +1,3 @@
+- [this - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- [setTimeout() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout#the_this_problem)
+- [Arrow function expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)

@@ -1,0 +1,3 @@
+- [koalescencja - definicja, synonimy, przykłady użycia](https://sjp.pwn.pl/slowniki/koalescencja.html)
+- [Nullish coalescing operator (??) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing)
+- [SyntaxError: cannot use `??` unparenthesized within `||` and `&&` expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized)

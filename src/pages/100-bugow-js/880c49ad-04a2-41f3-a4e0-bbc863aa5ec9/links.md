@@ -1,0 +1,2 @@
+- [Trailing commas - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Trailing_commas)
+- [Array - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#array_methods_and_empty_slots)

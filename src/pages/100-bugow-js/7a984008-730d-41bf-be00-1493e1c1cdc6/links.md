@@ -1,0 +1,2 @@
+- [Number.MIN_VALUE - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE)
+- [Scientific notation - Wikipedia](https://en.wikipedia.org/wiki/Scientific_notation)

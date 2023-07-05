@@ -1,0 +1,3 @@
+- [RegExp.prototype.test() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test)
+- [List of Unicode characters - Wikipedia](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
+- [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
