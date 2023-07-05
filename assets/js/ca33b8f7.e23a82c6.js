@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[65276],{32712:e=>{e.exports=JSON.parse('{"label":"OWASP","permalink":"/docs/tags/owasp","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/bezpieczenstwo","title":"Bezpiecze\u0144stwo","description":"","permalink":"/docs/informatyka/bezpieczenstwo"}]}')}}]);

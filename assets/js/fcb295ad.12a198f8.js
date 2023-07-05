@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[17642],{22118:s=>{s.exports=JSON.parse('{"label":"VCS","permalink":"/docs/tags/vcs","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/kontrola-wersji","title":"Kontrola wersji","description":"","permalink":"/docs/informatyka/kontrola-wersji"}]}')}}]);

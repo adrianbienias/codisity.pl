@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[92372],{93423:s=>{s.exports=JSON.parse('{"label":"DNS","permalink":"/docs/tags/dns","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/dns-i-domeny","title":"DNS i domeny","description":"","permalink":"/docs/informatyka/dns-i-domeny"}]}')}}]);

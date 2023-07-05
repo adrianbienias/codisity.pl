@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[22938],{8516:s=>{s.exports=JSON.parse('{"label":"macOS","permalink":"/docs/tags/mac-os","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/systemy-operacyjne/macos-i-ios","title":"macOS i iOS","description":"","permalink":"/docs/informatyka/systemy-operacyjne/macos-i-ios"}]}')}}]);

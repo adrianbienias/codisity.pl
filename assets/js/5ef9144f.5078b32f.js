@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[37201],{6394:t=>{t.exports=JSON.parse('{"label":"TDD","permalink":"/docs/tags/tdd","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/testowanie","title":"Testowanie","description":"","permalink":"/docs/informatyka/testowanie"}]}')}}]);

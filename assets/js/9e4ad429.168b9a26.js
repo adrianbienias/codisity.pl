@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[55406],{16060:a=>{a.exports=JSON.parse('{"label":"Performance","permalink":"/docs/tags/performance","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/wydajnosc","title":"Wydajno\u015b\u0107","description":"","permalink":"/docs/informatyka/wydajnosc"}]}')}}]);

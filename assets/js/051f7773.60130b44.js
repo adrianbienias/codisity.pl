@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[7667],{50777:a=>{a.exports=JSON.parse('{"label":"DDD","permalink":"/docs/tags/ddd","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/zarzadzanie-projektami","title":"Zarz\u0105dzanie projektami","description":"","permalink":"/docs/informatyka/zarzadzanie-projektami"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[48189],{28142:s=>{s.exports=JSON.parse('{"label":"Microsoft","permalink":"/docs/tags/microsoft","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/systemy-operacyjne/windows","title":"Windows","description":"","permalink":"/docs/informatyka/systemy-operacyjne/windows"}]}')}}]);

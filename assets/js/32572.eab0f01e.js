@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[32572],{32572:(s,c,e)=>{e.r(c)}}]);
