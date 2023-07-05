@@ -65,8 +65,8 @@ const config = {
       navbar: {
         logo: {
           alt: "Logo",
-          src: "images/logo-black.svg",
-          srcDark: "images/logo-white.svg",
+          src: "images/codisity-logo-light.svg",
+          srcDark: "images/codisity-logo-dark.svg",
           className: "navbar-logo",
         },
         items: [
@@ -94,6 +94,11 @@ const config = {
             label: "100 Bugów JS",
           },
           {
+            href: "https://www.youtube.com/@codisity-pl?sub_confirmation=1",
+            position: "right",
+            html: "<div class='navbar-youtube-logo'>YouTube</div>",
+          },
+          {
             to: "docs/tags",
             position: "right",
             label: "Tagi",
@@ -102,8 +107,7 @@ const config = {
       },
       footer: {
         style: "light",
-        links: [],
-        copyright: `Codisity © ${new Date().getFullYear()}, by <a href="https://bienias.dev" target="_blank" rel="noopener">Adrian Bienias</a>`,
+        copyright: `<div class="text-base">Codisity © ${new Date().getFullYear()}, by <a href="https://bienias.dev" target="_blank" rel="noopener">Adrian Bienias</a></div>`,
       },
       prism: {
         theme: lightCodeTheme,

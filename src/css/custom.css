@@ -84,6 +84,10 @@
   @apply w-28 ml-2;
 }
 
+.navbar-youtube-logo {
+  @apply w-20 text-transparent bg-contain bg-no-repeat bg-center bg-[url('/images/youtube-logo-light.svg')] dark:bg-[url('/images/youtube-logo-dark.svg')];
+}
+
 .video iframe {
   @apply aspect-video w-full;
 }
