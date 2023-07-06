@@ -1,0 +1,18 @@
+---
+tags:
+  - CPU
+  - RAM
+  - SSD
+  - I/O
+  - Hardware
+---
+
+# Działanie komputerów
+
+- [Kategoria:Sprzęt komputerowy – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:Sprz%C4%99t_komputerowy)
+- [Tranzystor – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Tranzystor)
+- [Układ wejścia-wyjścia – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Uk%C5%82ad_wej%C5%9Bcia-wyj%C5%9Bcia)
+- [Procesor – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Procesor)
+- [RAM – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/RAM)
+- [Napęd SSD – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Nap%C4%99d_SSD)
+- [Kategoria:Nośniki danych – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:No%C5%9Bniki_danych)

@@ -1,0 +1,15 @@
+---
+tags:
+  - JavaScript
+  - JS
+  - TypeScript
+  - TS
+---
+
+import VimeoPlayer from "@site/src/components/VimeoPlayer"
+
+# ▶️ Wprowadzenie w TypeScript
+
+<VimeoPlayer videoId="753410085" />
+
+- [TypeScript: JavaScript With Syntax For Types.](https://www.typescriptlang.org/)

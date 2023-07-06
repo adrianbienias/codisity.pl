@@ -1,0 +1,14 @@
+---
+tags:
+  - CMS
+---
+
+import VimeoPlayer from "@site/src/components/VimeoPlayer"
+
+# ▶️ Systemy zarządzania treścią
+
+<VimeoPlayer videoId="745782062" />
+
+- [📄 Slajdy prezentacji w PDF’ie](/download/slidev/1-4-2-cmsy-tradycyjne-i-bezglowe.pdf)
+- [System zarządzania treścią – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/System_zarz%C4%85dzania_tre%C5%9Bci%C4%85)
+- [Kategoria:Systemy zarządzania treścią – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:Systemy_zarz%C4%85dzania_tre%C5%9Bci%C4%85)

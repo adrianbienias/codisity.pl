@@ -1,0 +1,12 @@
+---
+tags:
+  - Internet
+---
+
+import VimeoPlayer from "@site/src/components/VimeoPlayer"
+
+# ▶️ Jak działa internet
+
+<VimeoPlayer videoId="745568803" />
+
+- [📄 Slajdy prezentacji w PDF’ie](/download/slidev/1-3-2-jak-dziala-internet.pdf)

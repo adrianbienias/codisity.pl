@@ -1,0 +1,14 @@
+---
+tags:
+  - IT
+  - Frontend
+  - Developer
+---
+
+import VimeoPlayer from "@site/src/components/VimeoPlayer"
+
+# ▶️ Frontend Developer
+
+<VimeoPlayer videoId="742611738" />
+
+- [📄 Slajdy prezentacji w PDF’ie](/download/slidev/1-1-2-frontend-developer.pdf)

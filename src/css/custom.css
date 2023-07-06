@@ -80,12 +80,25 @@
   }
 }
 
-.navbar-logo {
-  @apply w-28 ml-2;
+.navbar__inner,
+.theme-doc-sidebar-menu,
+.theme-edit-this-page {
+  @apply text-base;
+}
+
+.navbar__item {
+  @apply whitespace-nowrap overflow-hidden text-clip;
+}
+
+.navbar__logo {
+  @apply m-0;
+}
+.navbar-codisity-logo {
+  @apply w-24 ml-2 hover:scale-110;
 }
 
 .navbar-youtube-logo {
-  @apply w-20 text-transparent bg-contain bg-no-repeat bg-center bg-[url('/images/youtube-logo-light.svg')] dark:bg-[url('/images/youtube-logo-dark.svg')];
+  @apply w-20 text-transparent bg-contain bg-no-repeat bg-center bg-[url('/images/youtube-logo-light.svg')] dark:bg-[url('/images/youtube-logo-dark.svg')] hover:scale-110;
 }
 
 .video iframe {

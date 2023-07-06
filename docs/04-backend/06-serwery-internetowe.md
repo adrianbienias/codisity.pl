@@ -1,0 +1,11 @@
+---
+tags:
+  - Web server
+  - Nginx
+---
+
+# Serwery internetowe
+
+- [Serwer WWW – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Serwer_WWW)
+- [Kategoria:Serwery WWW – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Kategoria:Serwery_WWW)
+- [nginx – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Nginx)

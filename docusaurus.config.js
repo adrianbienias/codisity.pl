@@ -63,18 +63,19 @@ const config = {
       },
       // image: "images/codisity-social-card.jpg",
       navbar: {
+        // title: "Codisity",
         logo: {
           alt: "Logo",
           src: "images/codisity-logo-light.svg",
           srcDark: "images/codisity-logo-dark.svg",
-          className: "navbar-logo",
+          className: "navbar-codisity-logo",
         },
         items: [
           {
             type: "docSidebar",
-            sidebarId: "csFundamentalsSidebar",
+            sidebarId: "basicsSidebar",
             position: "left",
-            label: "Informatyka",
+            label: "Podstawy",
           },
           {
             type: "docSidebar",
@@ -89,12 +90,24 @@ const config = {
             label: "Frontend",
           },
           {
+            type: "docSidebar",
+            sidebarId: "backendSidebar",
+            position: "left",
+            label: "Backend",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "fullstackSidebar",
+            position: "left",
+            label: "Full Stack",
+          },
+          {
             to: "/100-bugow-js",
             position: "left",
             label: "100 Bugów JS",
           },
           {
-            href: "https://www.youtube.com/@codisity-pl?sub_confirmation=1",
+            href: "/youtube",
             position: "right",
             html: "<div class='navbar-youtube-logo'>YouTube</div>",
           },

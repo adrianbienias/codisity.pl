@@ -1,0 +1,15 @@
+---
+tags:
+  - IT
+  - UX
+  - UI
+  - Designer
+---
+
+import VimeoPlayer from "@site/src/components/VimeoPlayer"
+
+# ▶️ UX/UI Designer
+
+<VimeoPlayer videoId="741798294" />
+
+- [📄 Slajdy prezentacji w PDF’ie](/download/slidev/1-1-1-ux-ui-designer.pdf)
