@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[54665],{95848:s=>{s.exports=JSON.parse('{"label":"TCP/IP","permalink":"/docs/tags/tcp-ip","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/siec","title":"Sie\u0107","description":"","permalink":"/docs/informatyka/siec"}]}')}}]);

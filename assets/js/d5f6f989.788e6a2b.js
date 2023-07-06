@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[25396],{85990:a=>{a.exports=JSON.parse('{"label":"CPU","permalink":"/docs/tags/cpu","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/dzialanie-komputerow","title":"Dzia\u0142anie komputer\xf3w","description":"","permalink":"/docs/informatyka/dzialanie-komputerow"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[4323],{49582:e=>{e.exports=JSON.parse('{"label":"Docs","permalink":"/docs/tags/docs","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/dokumentacje","title":"Dokumentacje","description":"","permalink":"/docs/informatyka/dokumentacje"}]}')}}]);

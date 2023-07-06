@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[40536],{68341:a=>{a.exports=JSON.parse('{"label":"RAM","permalink":"/docs/tags/ram","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/dzialanie-komputerow","title":"Dzia\u0142anie komputer\xf3w","description":"","permalink":"/docs/informatyka/dzialanie-komputerow"}]}')}}]);

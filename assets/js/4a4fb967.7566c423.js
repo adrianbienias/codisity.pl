@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[53549],{29294:s=>{s.exports=JSON.parse('{"label":"Accessibility","permalink":"/docs/tags/accessibility","allTagsPath":"/docs/tags","count":1,"items":[{"id":"frontend/dostepnosc","title":"Dost\u0119pno\u015b\u0107","description":"","permalink":"/docs/frontend/dostepnosc"}]}')}}]);

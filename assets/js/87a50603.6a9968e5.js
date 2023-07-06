@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[77723],{9602:a=>{a.exports=JSON.parse('{"label":"API","permalink":"/docs/tags/api","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/programowanie/api","title":"API","description":"","permalink":"/docs/informatyka/programowanie/api"}]}')}}]);

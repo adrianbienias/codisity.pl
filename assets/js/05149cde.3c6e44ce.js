@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[9258],{914:a=>{a.exports=JSON.parse('{"label":"Big-O","permalink":"/docs/tags/big-o","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/programowanie/algorytmy","title":"Algorytmy","description":"","permalink":"/docs/informatyka/programowanie/algorytmy"}]}')}}]);

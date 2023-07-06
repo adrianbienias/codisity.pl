@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[66059],{65277:e=>{e.exports=JSON.parse('{"label":"Kernel","permalink":"/docs/tags/kernel","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/systemy-operacyjne/linux","title":"Linux","description":"","permalink":"/docs/informatyka/systemy-operacyjne/linux"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[84843],{29032:s=>{s.exports=JSON.parse('{"label":"Cloud","permalink":"/docs/tags/cloud","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/hosting","title":"Hosting","description":"","permalink":"/docs/informatyka/hosting"}]}')}}]);

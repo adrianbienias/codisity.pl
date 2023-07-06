@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[53442],{80856:a=>{a.exports=JSON.parse('{"label":"Cache","permalink":"/docs/tags/cache","allTagsPath":"/docs/tags","count":1,"items":[{"id":"informatyka/pamiec-podreczna","title":"Pami\u0119\u0107 podr\u0119czna","description":"","permalink":"/docs/informatyka/pamiec-podreczna"}]}')}}]);
