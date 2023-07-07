@@ -8,25 +8,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 const config = {
   title: "Codisity",
   favicon: "images/favicon.ico",
-
   // Set the production url of your site here
   url: "https://codisity.pl",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
   trailingSlash: false,
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  // organizationName: "adrianbienias", // Usually your GitHub org/user name.
-  // projectName: "codisity", // Usually your repo name.
-
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "pl",
     locales: ["pl"],
@@ -61,9 +48,8 @@ const config = {
           autoCollapseCategories: true,
         },
       },
-      // image: "images/codisity-social-card.jpg",
+      image: "images/og/homepage.png",
       navbar: {
-        // title: "Codisity",
         logo: {
           alt: "Logo",
           src: "images/codisity-logo-light.svg",
