@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[52057],{393:e=>{e.exports=JSON.parse('{"label":"Prometheus","permalink":"/tags/prometheus","allTagsPath":"/tags","count":1,"items":[{"id":"backend/monitoring/index","title":"Monitoring","description":"- Category:System monitors - Wikipedia","permalink":"/backend/monitoring/"}]}')}}]);

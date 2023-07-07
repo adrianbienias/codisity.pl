@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[45276],{4060:e=>{e.exports=JSON.parse('{"label":"Bundle","permalink":"/docs/tags/bundle","allTagsPath":"/docs/tags","count":1,"items":[{"id":"frontend/pakiety/index","title":"Pakiety","description":"Pakowarki","permalink":"/docs/frontend/pakiety/"}]}')}}]);

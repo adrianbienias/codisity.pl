@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[85137],{91675:i=>{i.exports=JSON.parse('{"label":"Uptime","permalink":"/tags/uptime","allTagsPath":"/tags","count":1,"items":[{"id":"backend/monitoring/index","title":"Monitoring","description":"- Category:System monitors - Wikipedia","permalink":"/backend/monitoring/"}]}')}}]);

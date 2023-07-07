@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[70437],{76875:e=>{e.exports=JSON.parse('{"label":"TCP/IP","permalink":"/tags/tcp-ip","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/siec/index","title":"Sie\u0107","description":"- Sie\u0107 komputerowa \u2013 Wikipedia, wolna encyklopedia","permalink":"/podstawy/siec/"}]}')}}]);

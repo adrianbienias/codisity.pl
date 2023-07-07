@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[77079],{89207:i=>{i.exports=JSON.parse('{"label":"Zabbix","permalink":"/docs/tags/zabbix","allTagsPath":"/docs/tags","count":1,"items":[{"id":"backend/monitoring","title":"Monitoring","description":"- Category:System monitors - Wikipedia","permalink":"/docs/backend/monitoring"}]}')}}]);

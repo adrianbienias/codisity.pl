@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[73245],{88747:i=>{i.exports=JSON.parse('{"label":"Grafana","permalink":"/docs/tags/grafana","allTagsPath":"/docs/tags","count":1,"items":[{"id":"backend/monitoring","title":"Monitoring","description":"- Category:System monitors - Wikipedia","permalink":"/docs/backend/monitoring"}]}')}}]);

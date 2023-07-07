@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[63680],{69409:e=>{e.exports=JSON.parse('{"label":"Web components","permalink":"/docs/tags/web-components","allTagsPath":"/docs/tags","count":1,"items":[{"id":"frontend/komponenty","title":"Komponenty","description":"- Web Components - Wikipedia","permalink":"/docs/frontend/komponenty"}]}')}}]);
