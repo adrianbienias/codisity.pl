@@ -33,7 +33,7 @@ export default function Home() {
             <div className="my-16 text-center">
               <Link
                 className="bg-indigo-500 hover:bg-indigo-600 text-xl font-semibold text-white hover:text-white py-4 px-8 rounded hover:no-underline"
-                to="/docs/podstawy/informatyka"
+                to="/podstawy/informatyka"
               >
                 Rozpocznij Naukę
               </Link>

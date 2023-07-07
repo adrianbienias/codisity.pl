@@ -25,6 +25,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/adrianbienias/codisity.pl/blob/main/",
@@ -98,7 +99,7 @@ const config = {
             html: "<div class='navbar-youtube-logo'>YouTube</div>",
           },
           {
-            to: "docs/tags",
+            to: "/tags",
             position: "right",
             label: "Tagi",
           },
