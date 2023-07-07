@@ -104,11 +104,3 @@
 .video iframe {
   @apply aspect-video w-full;
 }
-
-.DocCardList--no-description .card h2 {
-  @apply mb-0;
-}
-
-.DocCardList--no-description .card p {
-  @apply hidden;
-}
