@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[23914],{11230:a=>{a.exports=JSON.parse('{"label":"Big-O","permalink":"/tags/big-o","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/programowanie/algorytmy","title":"Algorytmy","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/podstawy/programowanie/algorytmy"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[85769],{31708:i=>{i.exports=JSON.parse('{"label":"FTP","permalink":"/tags/ftp","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/siec/index","title":"Sie\u0107","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/podstawy/siec/"}]}')}}]);

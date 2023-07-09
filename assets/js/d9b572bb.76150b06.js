@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[34298],{19057:a=>{a.exports=JSON.parse('{"label":"CS","permalink":"/tags/cs","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/informatyka/index","title":"Informatyka","description":"- Informatyka \u2013 Wikipedia, wolna encyklopedia","permalink":"/podstawy/informatyka/"}]}')}}]);

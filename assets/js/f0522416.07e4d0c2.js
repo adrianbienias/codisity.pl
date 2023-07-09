@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[984],{36999:s=>{s.exports=JSON.parse('{"label":"VCS","permalink":"/tags/vcs","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/kontrola-wersji/index","title":"Kontrola wersji","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/podstawy/kontrola-wersji/"}]}')}}]);

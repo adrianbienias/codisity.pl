@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[17559],{96194:e=>{e.exports=JSON.parse('{"label":"Kafka","permalink":"/tags/kafka","allTagsPath":"/tags","count":1,"items":[{"id":"backend/brokery-wiadomosci/index","title":"Brokery wiadomo\u015bci","description":"- Message broker - Wikipedia","permalink":"/backend/brokery-wiadomosci/"}]}')}}]);

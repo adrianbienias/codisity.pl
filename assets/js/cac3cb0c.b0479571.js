@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[55217],{50045:e=>{e.exports=JSON.parse('{"label":"HTTP","permalink":"/tags/http","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/siec/index","title":"Sie\u0107","description":"- Sie\u0107 komputerowa \u2013 Wikipedia, wolna encyklopedia","permalink":"/podstawy/siec/"}]}')}}]);

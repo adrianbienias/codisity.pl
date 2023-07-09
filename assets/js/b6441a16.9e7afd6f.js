@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[52057],{393:i=>{i.exports=JSON.parse('{"label":"Prometheus","permalink":"/tags/prometheus","allTagsPath":"/tags","count":1,"items":[{"id":"backend/monitoring/index","title":"Monitoring","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/backend/monitoring/"}]}')}}]);

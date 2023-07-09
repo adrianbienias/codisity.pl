@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[74125],{62386:e=>{e.exports=JSON.parse('{"label":"SVG","permalink":"/tags/svg","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/svg/index","title":"SVG","description":"- Scalable Vector Graphics \u2013 Wikipedia, wolna encyklopedia","permalink":"/frontend/svg/"}]}')}}]);

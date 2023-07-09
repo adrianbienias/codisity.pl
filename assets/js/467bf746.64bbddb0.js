@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[85137],{91675:i=>{i.exports=JSON.parse('{"label":"Uptime","permalink":"/tags/uptime","allTagsPath":"/tags","count":1,"items":[{"id":"backend/monitoring/index","title":"Monitoring","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/backend/monitoring/"}]}')}}]);

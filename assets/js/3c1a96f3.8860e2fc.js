@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[73299],{88608:e=>{e.exports=JSON.parse('{"label":"Bug","permalink":"/tags/bug","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/debugowanie/index","title":"Debugowanie","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/podstawy/debugowanie/"}]}')}}]);

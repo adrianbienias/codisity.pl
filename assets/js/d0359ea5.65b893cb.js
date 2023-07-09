@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[54054],{4838:e=>{e.exports=JSON.parse('{"label":"SemVer","permalink":"/tags/sem-ver","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/kontrola-wersji/index","title":"Kontrola wersji","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/podstawy/kontrola-wersji/"}]}')}}]);
