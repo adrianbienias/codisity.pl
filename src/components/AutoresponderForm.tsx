@@ -2,19 +2,13 @@ import React from "react"
 import axios from "axios"
 import { FormEvent, useState } from "react"
 
-const baseUrl = "https://codisity.pl"
-const mailerBaseUrl = "https://mailer.codisity.pl"
-const confirmationRequiredPath = "/100-bugow-js/wymagane-potwierdzenie"
-const confirmationRedirectUrl = `${baseUrl}/100-bugow-js/sukces`
-const subscribeApiEndpointUrl = `${mailerBaseUrl}/api/subscribe`
-
 type AutoresponderForm = {
-  listName: string
+  listId: string
   buttonText: string
 }
 
 export default function AutoresponderForm({
-  listName,
+  listId,
   buttonText,
 }: AutoresponderForm) {
   const [isSubmitted, setIsSubmitted] = useState<boolean>(false)
@@ -33,13 +27,13 @@ export default function AutoresponderForm({
     setEmailError(null)
 
     try {
-      await axios.post(subscribeApiEndpointUrl, {
+      const subscribeApiEndpointUrl =
+        "https://osems-qnvld.ondigitalocean.app/api/v1/public/contacts"
+      const response = await axios.post(subscribeApiEndpointUrl, {
         email,
-        listName,
-        confirmationRedirectUrl,
+        listId,
       })
-
-      window.location.assign(confirmationRequiredPath)
+      window.location.assign(response.data.signupRedirectUrl)
     } catch (error: any) {
       setIsSubmitted(false)
 
