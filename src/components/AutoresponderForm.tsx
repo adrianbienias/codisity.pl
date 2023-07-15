@@ -28,7 +28,7 @@ export default function AutoresponderForm({
 
     try {
       const subscribeApiEndpointUrl =
-        "https://osems-qnvld.ondigitalocean.app/api/v1/public/contacts"
+        "https://osems.codisity.pl/api/v1/public/contacts"
       const response = await axios.post(subscribeApiEndpointUrl, {
         email,
         listId,
