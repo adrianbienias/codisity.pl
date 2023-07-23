@@ -103,11 +103,28 @@ const config = {
             position: "right",
             label: "Tagi",
           },
+          {
+            type: "dropdown",
+            label: "Język",
+            position: "right",
+            items: [
+              {
+                html: "🇵🇱 Polski",
+                target: "",
+                href: "https://codisity.pl",
+              },
+              {
+                html: "🇺🇸 Angielski",
+                target: "",
+                href: "https://codisity.com",
+              },
+            ],
+          },
         ],
       },
       footer: {
         style: "light",
-        copyright: `<div class="text-base">Codisity © ${new Date().getFullYear()}, by <a href="https://bienias.dev" target="_blank" rel="noopener">Adrian Bienias</a></div>`,
+        copyright: `<div class="text-base">Codisity © ${new Date().getFullYear()}, by <a href="https://adrianbienias.pl" target="_blank" rel="noopener">Adrian Bienias</a></div>`,
       },
       prism: {
         theme: lightCodeTheme,

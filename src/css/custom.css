@@ -86,7 +86,7 @@
   @apply text-base;
 }
 
-.navbar__item {
+.navbar__item:not(.dropdown) {
   @apply whitespace-nowrap overflow-hidden text-clip;
 }
 
