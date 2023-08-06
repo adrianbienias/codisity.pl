@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[31109],{97676:i=>{i.exports=JSON.parse('{"label":"Bundle","permalink":"/tags/bundle","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/pakiety-i-pakowarki/index","title":"Pakiety i pakowarki","description":"Linki","permalink":"/frontend/pakiety-i-pakowarki/"}]}')}}]);

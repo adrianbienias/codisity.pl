@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[95798],{80409:e=>{e.exports=JSON.parse('{"label":"WASM","permalink":"/tags/wasm","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/webassembly/index","title":"WebAssembly","description":"Linki","permalink":"/frontend/webassembly/"}]}')}}]);

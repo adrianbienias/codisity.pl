@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[36359],{49399:e=>{e.exports=JSON.parse('{"label":"Mobile","permalink":"/tags/mobile","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/aplikacje-mobilne/index","title":"Aplikacje mobilne","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/frontend/aplikacje-mobilne/"}]}')}}]);

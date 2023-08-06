@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[67471],{63238:a=>{a.exports=JSON.parse('{"label":"State","permalink":"/tags/state","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/zarzadzanie-stanem/index","title":"Zarz\u0105dzanie stanem","description":"Linki","permalink":"/frontend/zarzadzanie-stanem/"}]}')}}]);
