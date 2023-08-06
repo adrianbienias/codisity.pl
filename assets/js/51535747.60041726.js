@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[79187],{99866:a=>{a.exports=JSON.parse('{"label":"Algorytm","permalink":"/tags/algorytm","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/programowanie/algorytmy","title":"Algorytmy","description":"Linki","permalink":"/podstawy/programowanie/algorytmy"}]}')}}]);

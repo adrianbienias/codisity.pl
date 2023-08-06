@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[57907],{71816:a=>{a.exports=JSON.parse('{"label":"Performance","permalink":"/tags/performance","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/wydajnosc/index","title":"Wydajno\u015b\u0107","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/podstawy/wydajnosc/"}]}')}}]);

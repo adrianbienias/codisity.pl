@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[25595],{28:e=>{e.exports=JSON.parse('{"label":"Chrome","permalink":"/tags/chrome","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/systemy-operacyjne/chrome-os","title":"Chrome OS","description":"Linki","permalink":"/podstawy/systemy-operacyjne/chrome-os"}]}')}}]);

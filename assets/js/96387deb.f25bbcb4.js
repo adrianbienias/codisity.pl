@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[61590],{76562:e=>{e.exports=JSON.parse('{"label":"Designer","permalink":"/tags/designer","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/praca-w-it/ux-ui-designer","title":"\u25b6\ufe0f UX/UI Designer","description":"Linki","permalink":"/podstawy/praca-w-it/ux-ui-designer"}]}')}}]);

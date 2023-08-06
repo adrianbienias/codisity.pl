@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[22465],{49491:t=>{t.exports=JSON.parse('{"label":"Prettier","permalink":"/tags/prettier","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/edytory-kodu/formatowanie-kodu","title":"Formatowanie kodu","description":"Linki","permalink":"/podstawy/edytory-kodu/formatowanie-kodu"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[48694],{44667:t=>{t.exports=JSON.parse('{"label":"CPU","permalink":"/tags/cpu","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/sprzet-komputerowy/index","title":"Sprz\u0119t komputerowy","description":"Linki","permalink":"/podstawy/sprzet-komputerowy/"}]}')}}]);

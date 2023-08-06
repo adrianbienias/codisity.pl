@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[18903],{23376:t=>{t.exports=JSON.parse('{"label":"SSD","permalink":"/tags/ssd","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/sprzet-komputerowy/index","title":"Sprz\u0119t komputerowy","description":"Linki","permalink":"/podstawy/sprzet-komputerowy/"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[14236],{42578:s=>{s.exports=JSON.parse('{"label":"Cloud","permalink":"/tags/cloud","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/hosting/index","title":"Hosting","description":"Linki","permalink":"/podstawy/hosting/"}]}')}}]);

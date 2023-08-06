@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[44288],{16741:s=>{s.exports=JSON.parse('{"label":"DNS","permalink":"/tags/dns","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/dns-i-domeny/index","title":"DNS i domeny","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/podstawy/dns-i-domeny/"}]}')}}]);
