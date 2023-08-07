@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[46934],{74930:e=>{e.exports=JSON.parse('{"label":"Serverless","permalink":"/tags/serverless","allTagsPath":"/tags","count":1,"items":[{"id":"backend/infrastuktura/index","title":"Infrastruktura","description":"Linki","permalink":"/backend/infrastuktura/"}]}')}}]);

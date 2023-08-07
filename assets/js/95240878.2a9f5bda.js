@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[30717],{25638:i=>{i.exports=JSON.parse('{"label":"Lucene","permalink":"/tags/lucene","allTagsPath":"/tags","count":1,"items":[{"id":"backend/silniki-wyszukiwania/index","title":"Silniki wyszukiwania","description":"Linki","permalink":"/backend/silniki-wyszukiwania/"}]}')}}]);

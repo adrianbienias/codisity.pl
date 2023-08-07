@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[82785],{9845:e=>{e.exports=JSON.parse('{"label":"NPM","permalink":"/tags/npm","allTagsPath":"/tags","count":1,"items":[{"id":"backend/node-js/index","title":"\u25b6\ufe0f Node.js","description":"Linki","permalink":"/backend/node-js/"}]}')}}]);

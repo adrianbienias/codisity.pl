@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[12725],{5963:i=>{i.exports=JSON.parse('{"label":"SMTP","permalink":"/tags/smtp","allTagsPath":"/tags","count":1,"items":[{"id":"backend/obsluga-emaili/index","title":"Obs\u0142uga emaili","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/backend/obsluga-emaili/"}]}')}}]);

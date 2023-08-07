@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[32351],{94264:a=>{a.exports=JSON.parse('{"label":"IaC","permalink":"/tags/ia-c","allTagsPath":"/tags","count":1,"items":[{"id":"backend/infrastuktura/index","title":"Infrastruktura","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/backend/infrastuktura/"}]}')}}]);

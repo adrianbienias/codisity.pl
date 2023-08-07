@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[22180],{91389:i=>{i.exports=JSON.parse('{"label":"Solr","permalink":"/tags/solr","allTagsPath":"/tags","count":1,"items":[{"id":"backend/silniki-wyszukiwania/index","title":"Silniki wyszukiwania","description":"Linki","permalink":"/backend/silniki-wyszukiwania/"}]}')}}]);
