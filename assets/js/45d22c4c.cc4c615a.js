@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[40718],{45261:i=>{i.exports=JSON.parse('{"label":"Routing","permalink":"/tags/routing","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/trasowanie/index","title":"Trasowanie","description":"Linki \ud83c\uddf5\ud83c\uddf1","permalink":"/fullstack/trasowanie/"}]}')}}]);

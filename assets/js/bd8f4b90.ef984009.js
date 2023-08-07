@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[90419],{43775:a=>{a.exports=JSON.parse('{"label":"Tpay","permalink":"/tags/tpay","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/bramki-platnicze/index","title":"Bramki p\u0142atnicze","description":"Linki","permalink":"/fullstack/bramki-platnicze/"}]}')}}]);
