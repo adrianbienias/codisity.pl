@@ -6,7 +6,7 @@ export default function YouTubePlayer({ videoId }: { videoId: number }) {
       <div className="video">
         <iframe
           title="YouTube video player"
-          src={`https://www.youtube.com/embed/${videoId}`}
+          src={`https://www.youtube.com/embed/${videoId}?rel=0`}
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowFullScreen
         />
