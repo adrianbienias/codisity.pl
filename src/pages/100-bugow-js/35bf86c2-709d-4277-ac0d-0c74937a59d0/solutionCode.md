@@ -1,4 +1,4 @@
-```js showLineNumbers {11}
+```js showLineNumbers {10}
 async function getData() {
   const url = "https://api.spacexdata.com/v4/history"
   const response = await fetch(url)
