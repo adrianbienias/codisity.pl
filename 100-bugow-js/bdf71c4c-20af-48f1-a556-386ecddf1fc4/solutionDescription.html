@@ -7,8 +7,8 @@
 <link rel="preconnect" href="https://www.googletagmanager.com">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-C4MJB6VCM9"></script>
 <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-C4MJB6VCM9",{anonymize_ip:!0})</script><link rel="stylesheet" href="/assets/css/styles.d4f53999.css">
-<link rel="preload" href="/assets/js/runtime~main.1c582ad6.js" as="script">
-<link rel="preload" href="/assets/js/main.48f35eb0.js" as="script">
+<link rel="preload" href="/assets/js/runtime~main.1736a850.js" as="script">
+<link rel="preload" href="/assets/js/main.65ece7d1.js" as="script">
 </head>
 <body class="navigation-with-keyboard">
 <script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){var t=null;try{t=new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}return t}()||function(){var t=null;try{t=localStorage.getItem("theme")}catch(t){}return t}();t(null!==e?e:"light")}()</script><div id="__docusaurus">
@@ -18,7 +18,7 @@ Zamiana ciągu znaków <code>&quot;  0 bar  &quot;</code> poprzez <code>parseInt
 Zamiana <code>null</code> poprzez <code>praseInt()</code> zwraca <code>NaN</code>.</p><p>Może to być bardzo mylące z uwagi na to, że dla wartości <code>undefined</code>, obie funkcje zwracają <code>NaN</code>.</p><p>Zamiana <code>true</code>/<code>false</code> poprzez <code>Number()</code> zwraca <code>1</code>/<code>0</code>.\
 Zamiana <code>true</code>/<code>false</code> poprzez <code>parseInt()</code> zwraca <code>NaN</code> w obu przypadkach.</p><p>Konwersja liczb z innych systemów liczbowych np. binarnego (zapisywanego z prefiksem <code>0b</code>), zwraca wartość liczbową w systemie dziesiętnym zarówno poprzez <code>Number()</code> jak i <code>parseInt()</code>.</p><p>Różnica w wartości zwracanej pojawia się, gdy jako argument funkcji przekażemy liczbę wewnątrz ciągu znaków np. <code>&quot;0b0111&quot;</code>.</p><p><code>Number()</code> zwróci wartość w systemie dziesiętnym, jak poprzednio.\
 <code>parseInt()</code> zachowa się już jednak inaczej i zwróci <code>0</code>...</p><p>Tak jak we wcześniejszym przykładzie <code>&quot;  0 bar  &quot;</code>, dla <code>parseInt()</code> liczy się tylko pierwsza liczba, którą rozpozna w ciągu znaków. Przykładowo <code>parseInt(&quot;123abc&quot;)</code> zwróci <code>123</code>.</p><p>Warto zaznaczyć, że wartości można też konwertować na typ liczbowy za pomocą jednoargumentowego operatora <code>+</code>. Używa on tego samego algorytmu co <code>Number()</code> z jednym, małym wyjątkiem... 🙃</p><p>Dla dużych wartości liczbowych, konwersja wartości typu <code>BigInt</code> poprzez <code>Number()</code> zwróci przybliżoną wartość w postaci liczbowej.</p><p>Używając operatora <code>+</code> dla konwersji wartości <code>BigInt</code> otrzymamy błąd <code>Cannot convert a BigInt value to a number</code>.</p><p>Warto też wiedzieć, że <code>parseInt()</code> jest również dostępny jako metoda <code>Number.parseInt()</code>. Na szczęście nie ma między nimi różnic i obie działają tak samo.</p></article></div></div></main></div><footer class="footer"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright"><div class="text-base">Codisity © 2023, by <a href="https://adrianbienias.pl" target="_blank" rel="noopener">Adrian Bienias</a></div></div></div></div></footer></div>
-<script src="/assets/js/runtime~main.1c582ad6.js"></script>
-<script src="/assets/js/main.48f35eb0.js"></script>
+<script src="/assets/js/runtime~main.1736a850.js"></script>
+<script src="/assets/js/main.65ece7d1.js"></script>
 </body>
 </html>
