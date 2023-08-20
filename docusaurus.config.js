@@ -95,6 +95,8 @@ const config = {
           },
           {
             href: "/youtube",
+            target: "_blank",
+            rel: "noopener",
             position: "right",
             html: "<div class='navbar-youtube-logo'>YouTube</div>",
           },
