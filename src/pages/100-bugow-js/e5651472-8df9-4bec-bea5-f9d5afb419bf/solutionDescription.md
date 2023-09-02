@@ -8,7 +8,7 @@ Przykładowo, `a = b = 1, c = 2`, wykona operacje przypisania `1` do zmiennej `b
 
 Konsola logując wartość zmiennej `a` zwróci więc `1`.
 
-W przykładzie `x = (y = 1, z = 2)`, pierwsze w kolejności wykonane zostaną wyrażenia w nawiasie. Najpierw dwie operacje przypisania, `1` do zmiennej `x` oraz `2` do zmiennej `z`, następnie zadziała operator przecinka, który zwróci wartość ostatniej z tych operacji, czyli `2`
+W przykładzie `x = (y = 1, z = 2)`, pierwsze w kolejności wykonane zostaną wyrażenia w nawiasie. Najpierw dwie operacje przypisania, `1` do zmiennej `y` oraz `2` do zmiennej `z`, następnie zadziała operator przecinka, który zwróci wartość ostatniej z tych operacji, czyli `2`
 
 Finalnie wartość zmiennej `x` zostanie zalogowana jako `2`.
 
