@@ -107,7 +107,7 @@ const config = {
           },
           {
             type: "dropdown",
-            label: "Język",
+            html: `<span aria-label="Język">🇵🇱</span>`,
             position: "right",
             items: [
               {
