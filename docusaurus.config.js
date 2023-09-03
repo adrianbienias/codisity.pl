@@ -126,7 +126,7 @@ const config = {
       },
       footer: {
         style: "light",
-        copyright: `<div class="text-base">Codisity © ${new Date().getFullYear()}, by <a href="https://adrianbienias.pl" target="_blank" rel="noopener">Adrian Bienias</a></div>`,
+        copyright: `Codisity © ${new Date().getFullYear()}, by <a href="https://adrianbienias.pl" target="_blank" rel="noopener">Adrian Bienias</a>`,
       },
       prism: {
         theme: lightCodeTheme,
