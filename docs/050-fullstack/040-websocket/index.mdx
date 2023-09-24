@@ -5,6 +5,26 @@ tags:
 
 # WebSocket
 
+WebSocket to protokół komunikacyjny stosowany w aplikacjach sieciowych, który umożliwia dwukierunkową komunikację w czasie rzeczywistym pomiędzy przeglądarką lub klientem a serwerem. Jest to alternatywa dla tradycyjnego modelu HTTP, który jest protokołem jednokierunkowym, gdzie przeglądarka lub klient wysyła żądanie do serwera, a serwer odpowiada.
+
+Oto kluczowe cechy i informacje dotyczące WebSocket:
+
+1. **Dwukierunkowa komunikacja**: W przeciwieństwie do protokołu HTTP, który jest jednokierunkowy (żądanie i odpowiedź), WebSocket umożliwia dwukierunkową komunikację. Zarówno klient, jak i serwer mogą inicjować wysyłanie wiadomości w dowolnym momencie, bez konieczności czekania na żądania.
+
+2. **Niski narzut komunikacyjny**: Protokół WebSocket jest bardziej efektywny niż tradycyjne połączenia HTTP, ponieważ nie wymaga ponownego nawiązywania połączenia za każdym razem, gdy klient chce wysłać lub otrzymać dane. Działa to na zasadzie utrzymania trwałego połączenia (persistent connection).
+
+3. **Szybkość i czas rzeczywisty**: WebSocket jest szczególnie przydatny w aplikacjach wymagających szybkiej komunikacji w czasie rzeczywistym, takich jak czat online, gry wieloosobowe, transmisje na żywo czy aplikacje do współpracy.
+
+4. **Bezpieczeństwo**: Aby zapewnić bezpieczną komunikację, można stosować protokół WebSocket w połączeniu z szyfrowaniem TLS/SSL, co zabezpiecza przesyłane dane.
+
+5. **Standardy i biblioteki**: WebSocket jest standardem opisanym w dokumencie RFC 6455. Istnieje wiele bibliotek i frameworków dostępnych w różnych językach programowania, które ułatwiają implementację komunikacji WebSocket w aplikacjach.
+
+6. **Obsługa błędów**: Protokół WebSocket zawiera mechanizmy obsługi błędów, takie jak obsługa rozłączenia i ponownego nawiązywania połączenia w przypadku awarii.
+
+7. **Wsparcie przeglądarek**: Współczesne przeglądarki internetowe (takie jak Chrome, Firefox, Safari i Edge) obsługują protokół WebSocket, co oznacza, że ​​można go wykorzystywać w aplikacjach internetowych działających w przeglądarkach.
+
+Protokół WebSocket jest często stosowany w połączeniu z technologią WebSockets API, która umożliwia tworzenie interaktywnych aplikacji internetowych. Jest to szczególnie użyteczne w przypadku aplikacji wymagających natychmiastowej synchronizacji danych między klientem a serwerem. WebSocket znacząco poprawia doświadczenie użytkownika w takich aplikacjach, ponieważ pozwala na błyskawiczne przesyłanie danych i komunikację w czasie rzeczywistym.
+
 ## Linki
 
 - [WebSocket – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/WebSocket)

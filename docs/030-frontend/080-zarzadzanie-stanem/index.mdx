@@ -5,6 +5,36 @@ tags:
 
 # Zarządzanie stanem
 
+Zarządzanie stanem (ang. state management) w kontekście programowania oznacza proces kontrolowania, przechowywania i aktualizowania danych (stanu) w aplikacji komputerowej. Stan może zawierać informacje o stanie interfejsu użytkownika, danym użytkownika, ustawieniach aplikacji, komunikatach i innych informacjach potrzebnych do funkcjonowania programu. Zarządzanie stanem jest szczególnie istotne w aplikacjach internetowych i mobilnych, gdzie użytkownicy interaktywnie oddziałują z aplikacją.
+
+Istnieje wiele sposobów zarządzania stanem w zależności od technologii i narzędzi używanych w projekcie. Oto kilka popularnych podejść do zarządzania stanem:
+
+1. **Lokalny stan komponentu (Local Component State)**:
+
+   - W wielu przypadkach, szczególnie w małych komponentach interfejsu użytkownika, stan może być przechowywany i zarządzany lokalnie przez sam komponent.
+   - Jest to proste i skuteczne podejście do zarządzania stanem, ale może być niewystarczające w bardziej skomplikowanych aplikacjach.
+
+2. **Zarządzanie stanem na poziomie komponentu nadrzędnego (Prop Drilling)**:
+
+   - W aplikacjach złożonych z wielu komponentów, stan może być przechowywany w najwyższym komponencie nadrzędnym i przekazywany jako props do komponentów podrzędnych.
+   - To podejście nazywane jest "prop drilling" lub "lifting state up" i może być skuteczne, ale może skomplikować strukturę komponentów i wprowadzić zbędne zależności.
+
+3. **Kontekst (Context API)**:
+
+   - W języku JavaScript i bibliotekach takich jak React, istnieje możliwość użycia API kontekstu (Context API) do udostępnienia globalnego stanu aplikacji komponentom bez konieczności przekazywania go przez props.
+   - To umożliwia komponentom dostęp do stanu, który jest dostępny globalnie w całej aplikacji.
+
+4. **Zarządzanie stanem z użyciem bibliotek (Redux, MobX, Vuex itp.)**:
+
+   - W bardziej zaawansowanych aplikacjach często używa się specjalnych bibliotek do zarządzania stanem, takich jak Redux (dla React), MobX (dla React i innych frameworków) czy Vuex (dla Vue.js).
+   - Te biblioteki oferują bardziej zaawansowane narzędzia do zarządzania stanem, takie jak magazyny (stores), akcje (actions) i reduktory (reducers).
+
+5. **Zarządzanie stanem na serwerze (Server-Side State Management)**:
+   - W przypadku aplikacji internetowych, które wymagają trwałego przechowywania danych, stan może być zarządzany na serwerze za pomocą baz danych.
+   - Dane mogą być przechowywane w bazie danych i dostępne dla klientów poprzez API.
+
+Wybór sposobu zarządzania stanem zależy od konkretnych wymagań projektu, skomplikowania aplikacji i używanych narzędzi. Ważne jest, aby dobrze zrozumieć różne podejścia do zarządzania stanem i wybrać to, które najlepiej pasuje do konkretnego przypadku użycia. Dobre zarządzanie stanem pomaga w tworzeniu bardziej skalowalnych, wydajnych i łatwych w utrzymaniu aplikacji.
+
 ## Linki
 
 - [Redux (JavaScript library) - Wikipedia](<https://en.wikipedia.org/wiki/Redux_(JavaScript_library)>)

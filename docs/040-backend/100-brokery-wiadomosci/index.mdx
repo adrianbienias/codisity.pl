@@ -6,6 +6,30 @@ tags:
 
 # Brokery wiadomości
 
+Brokery wiadomości (ang. message brokers) to oprogramowanie lub pośrednicy, które umożliwiają komunikację i przesyłanie wiadomości między różnymi aplikacjami lub komponentami systemu. Brokery wiadomości są szeroko stosowane w architekturach rozproszonych, gdzie różne komponenty muszą komunikować się ze sobą w sposób niezawodny i efektywny. Oto główne cechy i funkcje brokerów wiadomości:
+
+1. **Mediacja komunikacji**: Brokery wiadomości działają jako pośrednicy między nadawcami a odbiorcami wiadomości. Komunikacja nie jest bezpośrednia między nadawcą a odbiorcą, ale odbywa się poprzez brokera.
+
+2. **Asynchroniczność**: Brokery wiadomości obsługują asynchroniczną komunikację, co oznacza, że nadawca nie musi czekać na natychmiastową odpowiedź od odbiorcy. Wiadomości są przetwarzane w momencie, gdy są dostępne.
+
+3. **Kolejkowanie**: Wiadomości wysyłane do brokera są zazwyczaj kolejkowane, co pozwala na obsługę wielu wiadomości jednocześnie. Odbiorcy mogą pobierać wiadomości z kolejki w określonej kolejności.
+
+4. **Routing**: Brokery wiadomości pozwalają na dynamiczne kierowanie wiadomości do odpowiednich odbiorców na podstawie określonych kryteriów, takich jak typ wiadomości, temat czy inne metadane.
+
+5. **Przetwarzanie wiadomości**: Brokery mogą wykonywać różne operacje na wiadomościach, takie jak transformacje danych, filtrowanie, walidacja, logowanie itp., zanim zostaną dostarczone do odbiorców.
+
+6. **Zarządzanie awariami**: Brokery wiadomości są projektowane w taki sposób, aby były odporne na awarie. W przypadku problemów z jednym komponentem, inne komponenty mogą nadal przesyłać i odbierać wiadomości.
+
+7. **Integracja systemów**: Brokery wiadomości są często stosowane do integracji różnych systemów, co pozwala na komunikację między aplikacjami działającymi na różnych platformach i w różnych technologiach.
+
+8. **Skalowalność**: Brokery mogą być łatwo skalowane w zależności od potrzeb, co pozwala na obsługę dużej liczby wiadomości i użytkowników.
+
+9. **Bezpieczeństwo**: Brokery wiadomości mogą zapewniać mechanizmy uwierzytelniania i autoryzacji, aby kontrolować dostęp do wiadomości.
+
+10. **Przykłady brokerów wiadomości**: Przykłady popularnych brokerów wiadomości to Apache Kafka, RabbitMQ, Apache ActiveMQ, IBM MQ, NATS, i wiele innych.
+
+Brokery wiadomości są istotnym elementem architektury aplikacji rozproszonych, która umożliwia niezawodną i elastyczną komunikację między różnymi komponentami i usługami. Są szeroko stosowane w systemach, które wymagają przesyłania danych i informacji w sposób niezawodny, takich jak systemy finansowe, telekomunikacyjne, przetwarzania danych w czasie rzeczywistym, e-commerce i wiele innych.
+
 ## Linki
 
 - [Apache Kafka – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Apache_Kafka)

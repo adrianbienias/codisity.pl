@@ -5,6 +5,24 @@ tags:
 
 # Haszowanie
 
+Haszowanie (ang. hashing) to proces przekształcania dowolnej ilości danych (często nazywanych "wiadomościami") na skrócony ciąg znaków o stałej długości, który jest reprezentacją tych danych. Ten skrócony ciąg znaków jest nazywany "wartością skrótu" lub "haszem". Proces haszowania ma kilka kluczowych cech:
+
+1. **Deterministyczność**: Ten sam zestaw danych zawsze spowoduje wygenerowanie tego samego hasza. Oznacza to, że haszowanie jest deterministyczne i przewidywalne.
+
+2. **Stała długość hasza**: Hasze zawsze mają stałą długość, niezależnie od wielkości danych wejściowych. Na przykład popularny algorytm haszowania SHA-256 generuje hasze o długości 256 bitów.
+
+3. **Jednokierunkowość**: Proces haszowania jest jednokierunkowy, co oznacza, że ​​nie można odzyskać oryginalnych danych z hasza. To sprawia, że haszowanie jest przydatne w kontekście przechowywania haseł, ponieważ oryginalne hasło nie jest przechowywane, tylko jego hasz.
+
+4. **Rozproszenie**: Dobre funkcje haszujące rozpraszają dane w sposób, który uniemożliwia przewidywanie, jakie zmiany w danych wejściowych wpłyną na wynikowy hasz. Małe zmiany w danych wejściowych powinny znacząco zmieniać wynikowy hasz.
+
+5. **Integralność**: Haszowanie jest używane do sprawdzania integralności danych. Jeśli dane zmienią się, to zmieni się również ich hasz, co można wykorzystać do wykrywania nieautoryzowanych zmian.
+
+6. **Hasze kryptograficzne**: W dziedzinie kryptografii stosuje się tzw. "hasze kryptograficzne", które są szczególnie odporne na ataki w celu odzyskania danych wejściowych z hasza (atak odwrotny) oraz na kolizje (sytuacje, w których dwa różne zestawy danych generują ten sam hasz).
+
+7. **Zastosowania**: Haszowanie jest szeroko stosowane w różnych dziedzinach, takich jak bezpieczeństwo komputerowe (do przechowywania haseł), bazy danych (do przyspieszania wyszukiwania i porównań), systemy plików (do optymalizacji dostępu do plików) i wiele innych.
+
+Przykładem popularnej funkcji haszującej jest SHA-256 (Secure Hash Algorithm 256-bit), który jest często używany w kryptografii i blockchainie. W praktyce haszowanie jest niezbędne do wielu aspektów technologii informatycznej, zapewniając integralność danych, ochronę prywatności i bezpieczeństwo systemów.
+
 ## Linki
 
 - [Tablica mieszająca – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Tablica_mieszaj%C4%85ca)

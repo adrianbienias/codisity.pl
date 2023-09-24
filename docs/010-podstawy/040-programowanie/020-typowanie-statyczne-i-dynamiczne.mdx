@@ -1,5 +1,46 @@
 # Typowanie statyczne i dynamiczne
 
+Typowanie statyczne i dynamiczne to dwa różne podejścia do zarządzania typami danych w programowaniu. Określają, w jaki sposób język programowania obsługuje i sprawdza typy danych w trakcie kompilacji i wykonywania programu. Oto ich podstawowe cechy:
+
+1. **Typowanie statyczne**:
+
+   - W językach programowania stosujących typowanie statyczne, typy danych muszą być określone w momencie deklaracji zmiennych i funkcji, a kompilator dokładnie sprawdza zgodność typów podczas kompilacji.
+
+   - Błędy związane z niezgodnością typów są wykrywane na etapie kompilacji, co oznacza, że program nie zostanie uruchomiony, jeśli zostaną naruszone reguły typowania.
+
+   - Przykłady języków programowania stosujących typowanie statyczne to Java, C++, C# i Swift.
+
+   - Przykład w języku C++:
+     ```cpp
+     int liczba = 5;
+     string tekst = "Hello";
+     // Poniższy kod spowoduje błąd kompilacji z powodu niezgodności typów.
+     int suma = liczba + tekst;
+     ```
+
+2. **Typowanie dynamiczne**:
+
+   - W językach programowania stosujących typowanie dynamiczne, zmienne mogą zmieniać swój typ w trakcie działania programu. Typy danych są sprawdzane i przypisywane dopiero w trakcie wykonywania programu, a nie podczas kompilacji.
+
+   - Błędy związane z niezgodnością typów mogą być wykrywane dopiero w trakcie wykonywania programu, co może prowadzić do błędów runtime.
+
+   - Przykłady języków programowania stosujących typowanie dynamiczne to JavaScript, Python, Ruby i PHP.
+
+   - Przykład w języku Python (typowanie dynamiczne):
+     ```python
+     liczba = 5
+     tekst = "Hello"
+     # Poniższy kod zostanie wykonany bez błędów w trakcie kompilacji, ale spowoduje błąd runtime.
+     suma = liczba + tekst  # TypeError: unsupported operand type(s) for +: 'int' and 'str'
+     ```
+
+Porównanie:
+
+- Typowanie statyczne pomaga wykryć wiele błędów w trakcie kompilacji, co może prowadzić do bardziej niezawodnych programów. Jednak może wymagać więcej pracy w deklarowaniu typów.
+- Typowanie dynamiczne jest bardziej elastyczne, ale błędy związane z niezgodnością typów mogą być trudniejsze do wykrycia i naprawienia, ponieważ pojawiają się w trakcie wykonywania programu.
+
+Wybór między typowaniem statycznym a dynamicznym zależy od preferencji programisty oraz konkretnej sytuacji i wymagań projektu. Niektóre języki programowania, takie jak TypeScript (rozszerzenie JavaScript), łączą obie metody, umożliwiając stosowanie typowania statycznego w dynamicznych środowiskach.
+
 ## Linki
 
 - [Typowanie statyczne – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Typowanie_statyczne)

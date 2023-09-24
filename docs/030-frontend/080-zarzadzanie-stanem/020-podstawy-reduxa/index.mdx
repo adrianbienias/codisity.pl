@@ -1,5 +1,31 @@
 import DocCardList from "@theme/DocCardList"
 
-# Podstawy Reduxa
+# Redux
+
+Redux to biblioteka JavaScript, często używana w połączeniu z frameworkiem React, która służy do zarządzania stanem aplikacji. Jest to narzędzie, które pomaga w efektywnym zarządzaniu danymi i ich przepływem w dużych i skomplikowanych aplikacjach internetowych. Redux jest oparty na kilku kluczowych koncepcjach:
+
+1. **Centralny magazyn stanu (Store)**: W Reduxie cały stan aplikacji jest przechowywany w jednym centralnym magazynie stanu. To oznacza, że wszystkie dane aplikacji, takie jak stan komponentów, są przechowywane w jednym miejscu.
+
+2. **Niezmienność stanu**: Stan w Reduxie jest niezmienialny, co oznacza, że nie można go bezpośrednio modyfikować. Zamiast tego każda zmiana stanu jest tworzona jako nowy obiekt, co pomaga w monitorowaniu zmian i zachowaniu spójności.
+
+3. **Akcje (Actions)**: Akcje to obiekty JavaScript, które opisują zmianę stanu. Każda akcja zawiera typ (typowy ciąg znaków) i opcjonalne dane, które są przekazywane do reduktorów w celu aktualizacji stanu.
+
+4. **Reduktory (Reducers)**: Reduktory to funkcje, które określają, jakie zmiany w stanie mają być dokonane w odpowiedzi na akcje. Reduktory przyjmują bieżący stan i akcję jako argumenty i zwracają nowy stan.
+
+5. **Połączenie (Connect)**: W aplikacji Redux często korzysta się z funkcji `connect`, która pozwala komponentom React na dostęp do stanu i akcji Reduxa. To umożliwia komponentom korzystanie z danych ze stanu i reagowanie na zmiany w stanie.
+
+Korzyści z użycia Reduxa:
+
+- **Jasne zarządzanie stanem**: Redux narzuca strukturę i jednoznaczny sposób zarządzania stanem, co ułatwia zrozumienie i utrzymanie aplikacji, szczególnie w przypadku większych projektów.
+
+- **Łatwe testowanie**: Funkcje reduktora są czyste i deterministyczne, co ułatwia testowanie. Można łatwo pisać testy jednostkowe i sprawdzać, czy akcje zmieniają stan w oczekiwany sposób.
+
+- **Wsparcie dla podróżowania w czasie (time-travel debugging)**: Redux pozwala na śledzenie historii akcji i cofanie się do wcześniejszych stanów aplikacji, co jest przydatne podczas debugowania i analizy błędów.
+
+- **Rejestracja zdarzeń (Logging)**: Możliwe jest łatwe logowanie akcji i zmian stanu, co ułatwia śledzenie działania aplikacji.
+
+Redux jest popularnym narzędziem w ekosystemie React, ale może być używany w połączeniu z innymi bibliotekami i frameworkami JavaScript. Jest szczególnie przydatny w projektach, które mają skomplikowany stan aplikacji, dużą ilość danych i dużą skalowalność.
+
+## Kurs wideo - Podstawy Reduxa
 
 <DocCardList />

@@ -5,6 +5,40 @@ tags:
 
 # Wyrażenia regularne
 
+Wyrażenia regularne, znane także jako regex lub regexp, to potężne narzędzie używane w informatyce do wyszukiwania i manipulacji tekstem na podstawie określonych wzorców. Wyrażenia regularne pozwalają na przeszukiwanie tekstów w celu znalezienia określonych sekwencji znaków, dopasowania wzorców i wykonania różnych operacji na tekście, takich jak zastępowanie, wydobywanie danych czy walidacja.
+
+Oto kilka podstawowych koncepcji i składni związanych z wyrażeniami regularnymi:
+
+1. **Znak literału**: Większość znaków w wyrażeniach regularnych jest traktowana jako znaki literałowe, co oznacza, że dopasowują się do dokładnie takich samych znaków w tekście. Na przykład, wyrażenie regularne `abc` dopasuje sekwencję "abc" w tekście.
+
+2. **Metaznaki**: Wyrażenia regularne zawierają metaznaki, które mają specjalne znaczenie i służą do dopasowania określonych wzorców. Przykładowe metaznaki to:
+
+   - `.`: Dopasowuje dowolny pojedynczy znak (z wyjątkiem nowej linii).
+   - `*`: Dopasowuje zero lub więcej wystąpień poprzedniego znaku lub grupy.
+   - `+`: Dopasowuje jeden lub więcej wystąpień poprzedniego znaku lub grupy.
+   - `?`: Oznacza, że poprzedni znak lub grupa jest opcjonalne (zero lub jedno wystąpienie).
+   - `|`: Pozwala na dopasowanie jednego z wielu różnych znaków lub wzorców. Na przykład, `a|b` dopasuje "a" lub "b".
+
+3. **Klasy znaków**: Klasy znaków pozwalają na dopasowanie grupy znaków o określonych cechach. Na przykład:
+
+   - `[0-9]`: Dopasowuje dowolną cyfrę od 0 do 9.
+   - `[a-zA-Z]`: Dopasowuje dowolną literę alfabetu (zarówno małą, jak i wielką).
+   - `[^0-9]`: Dopasowuje dowolny znak, który nie jest cyfrą.
+
+4. **Grupy i zastąpienie**: Możesz tworzyć grupy znaków, które pozwalają na określenie logicznych fragmentów wyrażenia regularnego. Grupy są przydatne, gdy chcesz wykonać operacje zastąpienia lub wydobyć konkretne części tekstu. Na przykład:
+
+   - `(ab)+`: Dopasuje sekwencję "ab", "abab", "ababab", itd.
+   - `(\d{3})-(\d{2})-(\d{4})`: Dopasuje datę w formacie "123-45-6789" i wydobywa trzy grupy: rok, miesiąc i dzień.
+
+5. **Anchors**: Anchors pozwalają na określenie, gdzie w tekście ma być dokonywane dopasowanie. Na przykład:
+
+   - `^abc`: Dopasuje "abc" tylko na początku linii.
+   - `abc$`: Dopasuje "abc" tylko na końcu linii.
+
+6. **Modifikatory**: Modifikatory wpływają na sposób dopasowywania i są stosowane do całości lub do poszczególnych elementów wyrażenia regularnego. Przykłady modifikatorów to `i` (ignorowanie wielkości liter), `g` (globalne dopasowywanie) i `m` (dopasowywanie wielu linii).
+
+Wyrażenia regularne są bardzo potężnym narzędziem do analizy i manipulacji tekstu, ale ich składnia może być trudna do opanowania. Warto poświęcić czas na naukę wyrażeń regularnych, ponieważ są one używane w wielu dziedzinach programowania, takich jak przetwarzanie tekstu, walidacja danych, parsowanie danych i wiele innych.
+
 ## Linki
 
 - [Wyrażenie regularne – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Wyra%C5%BCenie_regularne)
