@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[45874],{39060:a=>{a.exports=JSON.parse('{"label":"PayU","permalink":"/tags/pay-u","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/bramki-platnicze/index","title":"Bramki p\u0142atnicze","description":"Linki","permalink":"/fullstack/bramki-platnicze/"}]}')}}]);

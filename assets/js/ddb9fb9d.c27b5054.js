@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[11878],{4778:a=>{a.exports=JSON.parse('{"label":"Scrum","permalink":"/tags/scrum","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/zarzadzanie-projektami/index","title":"Zarz\u0105dzanie projektami","description":"Linki","permalink":"/podstawy/zarzadzanie-projektami/"}]}')}}]);

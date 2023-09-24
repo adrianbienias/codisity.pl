@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[53078],{83916:e=>{e.exports=JSON.parse('{"label":"CLI","permalink":"/tags/cli","allTagsPath":"/tags","count":1,"items":[{"id":"backend/wierwsz-polecen/index","title":"Wiersz polece\u0144","description":"Linki","permalink":"/backend/wierwsz-polecen/"}]}')}}]);

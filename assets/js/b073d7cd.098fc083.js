@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[52499],{76140:e=>{e.exports=JSON.parse('{"label":"PWA","permalink":"/tags/pwa","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/progresywne-aplikacje/index","title":"Progresywne aplikacje","description":"Linki","permalink":"/frontend/progresywne-aplikacje/"}]}')}}]);

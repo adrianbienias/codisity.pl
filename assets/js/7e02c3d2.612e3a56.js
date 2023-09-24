@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[30984],{44741:a=>{a.exports=JSON.parse('{"label":"Agile","permalink":"/tags/agile","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/zarzadzanie-projektami/index","title":"Zarz\u0105dzanie projektami","description":"Linki","permalink":"/podstawy/zarzadzanie-projektami/"}]}')}}]);

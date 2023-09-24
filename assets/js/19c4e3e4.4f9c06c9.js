@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[71717],{82039:s=>{s.exports=JSON.parse('{"label":"CR","permalink":"/tags/cr","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/kontrola-wersji/inspekcja-kodu","title":"Inspekcja kodu","description":"Linki","permalink":"/podstawy/kontrola-wersji/inspekcja-kodu"}]}')}}]);

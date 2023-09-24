@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[33280],{85462:s=>{s.exports=JSON.parse('{"label":"Windows","permalink":"/tags/windows","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/systemy-operacyjne/windows","title":"Windows","description":"Linki","permalink":"/podstawy/systemy-operacyjne/windows"}]}')}}]);

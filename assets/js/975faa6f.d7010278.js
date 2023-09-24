@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[22708],{94251:i=>{i.exports=JSON.parse('{"label":"Push","permalink":"/tags/push","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/powiadomienia-push/index","title":"Powiadomienia push","description":"Linki","permalink":"/fullstack/powiadomienia-push/"}]}')}}]);

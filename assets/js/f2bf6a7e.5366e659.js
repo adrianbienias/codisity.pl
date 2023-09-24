@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_pl=self.webpackChunkcodisity_pl||[]).push([[40722],{99394:e=>{e.exports=JSON.parse('{"label":"FreeBSD","permalink":"/tags/free-bsd","allTagsPath":"/tags","count":1,"items":[{"id":"podstawy/systemy-operacyjne/free-bsd","title":"FreeBSD","description":"Linki","permalink":"/podstawy/systemy-operacyjne/free-bsd"}]}')}}]);
