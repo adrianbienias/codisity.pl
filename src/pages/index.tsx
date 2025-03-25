@@ -89,7 +89,7 @@ export default function Home() {
               </p>
             </FeatureItem>
 
-            <FeatureItem href="/100-bugow-js">
+            {/* <FeatureItem href="/100-bugow-js">
               <svg
                 className="w-8 h-8 text-gray-800 mr-2 dark:text-gray-200 group-hover:scale-110 transition-transform"
                 xmlns="http://www.w3.org/2000/svg"
@@ -108,7 +108,7 @@ export default function Home() {
               <p className="m-0 block font-bold text-gray-800 dark:text-white group-hover:translate-x-1 transition-transform">
                 Zapisz się na darmowy kurs emailowy "100 Bugów JS"
               </p>
-            </FeatureItem>
+            </FeatureItem> */}
 
             <FeatureItem href="/">
               <svg

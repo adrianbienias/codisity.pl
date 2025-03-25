@@ -88,11 +88,11 @@ const config = {
             position: "left",
             label: "Full Stack",
           },
-          {
-            to: "/100-bugow-js",
-            position: "left",
-            label: "100 Bugów JS",
-          },
+          // {
+          //   to: "/100-bugow-js",
+          //   position: "left",
+          //   label: "100 Bugów JS",
+          // },
           {
             href: "/youtube",
             target: "_blank",
